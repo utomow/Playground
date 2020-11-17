@@ -1,0 +1,20 @@
+{
+  "name": "test-express-json",
+  "version": "1.0.0",
+  "description": "Testing the express.json() function",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "json"
+  ],
+  "author": "Wijoyo Utomo",
+  "license": "ISC"
+}
